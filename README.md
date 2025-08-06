@@ -45,8 +45,6 @@ Software developer passionate about algorithms, distributed systems, and buildin
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-heda/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pranayheda24@gmail.com)
 
-## ⚡ Fun fact
-I'm passionate about cricket analytics and applying data science to sports predictions!
 <!--
 **pranayh24/pranayh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

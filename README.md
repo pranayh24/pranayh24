@@ -2,12 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header" width="100%"/>
 
-# Pranay Heda
+# Pranay
 
 **Backend Engineer · Distributed Systems · AI Integrations**
 
-Building reliable systems at the intersection of distributed architecture and practical AI —
-currently at **Vega Visionary**, finishing my B.Tech in AI & Robotics at **MITS Gwalior**.
+Building reliable systems at the intersection of distributed architecture and practical AI.
 
 
 </div>

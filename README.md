@@ -19,8 +19,6 @@ Building reliable systems at the intersection of distributed architecture and pr
 - 🤖 Experienced in **AI integrations** — SSE streaming, RAG pipelines, LLM-based assessment workers
 - 🌍 Open source contributor — **Eclipse Foundation (SW360)**, **JabRef**, GSSoC 2025
 - ⚔️ **LeetCode Knight** — 1850 rating, 700+ problems, top 5% globally
-- 📍 Ujjain, India · Open to remote opportunities
-
 ---
 
 ## Tech Stack

@@ -9,10 +9,6 @@
 Building reliable systems at the intersection of distributed architecture and practical AI —
 currently at **Vega Visionary**, finishing my B.Tech in AI & Robotics at **MITS Gwalior**.
 
-[![Portfolio](https://img.shields.io/badge/pranayh.me-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pranayh.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranay-heda)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/pranayh24)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranayheda24@gmail.com)
 
 </div>
 
